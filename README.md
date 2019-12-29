@@ -1,2 +1,2 @@
 # lexica
-The **Lexica** programming language repository
+The **Lexica** is an programming language
