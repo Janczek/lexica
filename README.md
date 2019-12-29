@@ -1,2 +1,2 @@
 # lexica
-The **Lexica** is an programming language
+The Lexica is an programming language
